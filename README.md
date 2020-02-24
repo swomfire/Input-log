@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description: A React App that save logs for each inputs.
+Functions: 
+ - Show input history logs.
+ - Show differents between each logs.
 
 ## Available Scripts
 
