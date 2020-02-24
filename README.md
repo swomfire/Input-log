@@ -1,8 +1,9 @@
 Description: A React App that save logs for each inputs.
 
 Functions: 
+ - Enter new log by saving the text input field.
  - Show input history logs.
- - Show differents between each logs.
+ - Show differents between each logs (Hovering between each log).
 
 ## Available Scripts
 
